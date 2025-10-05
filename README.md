@@ -38,6 +38,12 @@ Rumus perhitungan IMT:
 
 1. **Clone repository**:
    ```bash
-   git clone https://github.com/username/BMIApp.git
-   cd BMIApp
-2. 
+   https://github.com/mohrizqiwijaya/Aplikasi-Sederhan-IMT.git
+2. **Buat Folder Projek Baru React Native**
+   ```bash
+   npx @react-native-community/cli@latest init namaProjek
+4. **Jalankan Aplikasi/Konek**
+   ```bash
+   npx react-native run-android
+
+   
