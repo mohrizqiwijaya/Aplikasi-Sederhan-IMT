@@ -1,4 +1,4 @@
-# 📱 Aplikasi Kalkulator Indeks Massa Tubuh (IMT)
+# 📱 Aplikasi Sederhana Menghitung Indeks Massa Tubuh (IMT)
 
 Proyek ini merupakan tugas mata kuliah **Pemrograman Perangkat Mobile**, yang dibuat oleh **R. Tb. Moh. Rizqi Wijaya**.  
 Aplikasi ini berfungsi untuk menghitung **Indeks Massa Tubuh (IMT)** berdasarkan berat badan dan tinggi badan pengguna menggunakan framework **React Native**.
