@@ -10,3 +10,34 @@ Aplikasi ini berfungsi untuk menghitung **Indeks Massa Tubuh (IMT)** berdasarkan
 Indeks Massa Tubuh (IMT) atau Body Mass Index (BMI) digunakan untuk mengukur apakah berat badan seseorang tergolong **kurus**, **normal**, **berat badan berlebih**, atau **obesitas**.
 
 Rumus perhitungan IMT:
+
+---
+
+## ⚙️ Fitur Aplikasi
+
+- Input berat badan dalam **kilogram (kg)**  
+- Input tinggi badan dalam **sentimeter (cm)**  
+- Menghitung IMT secara otomatis  
+- Menampilkan kategori hasil:
+  - Kurus
+  - Normal
+  - Berat badan berlebih
+  - Obesitas  
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **React Native**  
+- **JavaScript (ES6)**  
+- **Android Studio** (untuk menjalankan emulator atau perangkat fisik)  
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/username/BMIApp.git
+   cd BMIApp
+2. 
